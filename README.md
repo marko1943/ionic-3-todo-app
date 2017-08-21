@@ -8,3 +8,8 @@ This is updated version cause I couldn't find updated github repository for this
 
 The guide notes that the last update is July 6, 2017
 
+### How to run
+
+You can just clone the repo, cd into it and do the `npm install`
+
+then a simple `ionic serve` will do
